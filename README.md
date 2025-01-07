@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohammed Ansal<br>🚀 Passionate Full-Stack Developer | MERN Stack Specialist<br><br>Hi 👋! My name is Mohammed Ansal, and I'm a dedicated full-stack developer from Malappuram, Kerala. I specialize in crafting seamless, scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js).<br><br>I’m passionate about exploring modern web technologies, enhancing problem-solving skills through data structures and algorithms, and transforming innovative ideas into impactful digital solutions.</h2>
+<h2 align="left">Hi 👋! My name is Mohammed Ansal<br>🚀 Passionate Full-Stack Developer | MERN Stack Specialist<br><br>I'm a dedicated full-stack developer from Malappuram, Kerala. I specialize in crafting seamless, scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js).<br><br>I’m passionate about exploring modern web technologies, enhancing problem-solving skills through data structures and algorithms, and transforming innovative ideas into impactful digital solutions.</h2>
 
 ###
 
@@ -54,6 +54,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
 </div>
 
 ###
