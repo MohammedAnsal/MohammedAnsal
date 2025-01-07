@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Mohammed Ansal<br>🚀 Passionate Full-Stack Developer | MERN Stack Specialist<br><br>Hi 👋! My name is Mohammed Ansal, and I'm a dedicated full-stack developer from Malappuram, Kerala. I specialize in crafting seamless, scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js).<br><br>I’m passionate about exploring modern web technologies, enhancing problem-solving skills through data structures and algorithms, and transforming innovative ideas into impactful digital solutions.</h2>
 
 ###
 
