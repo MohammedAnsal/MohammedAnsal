@@ -1,10 +1,6 @@
 # 💫 About Me:
 Hi ! My name is Mohammed Ansal<br>Passionate Full-Stack Developer | MERN Stack Specialist<br><br>I'm a dedicated full-stack developer from Malappuram, Kerala. I specialize in crafting seamless, scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js).<br><br>I’m passionate about exploring modern web technologies, enhancing problem-solving skills through data structures and algorithms, and transforming innovative ideas into impactful digital solutions
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ansal_shaah/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-ansal-pa-23344328b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansalshaah786@gmail.com) 
-
 <div align="center">
 
 # 💻 Tech Stack:
@@ -12,18 +8,48 @@ Hi ! My name is Mohammed Ansal<br>Passionate Full-Stack Developer | MERN Stack S
   
 </div>
 
+<div align="center">
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ansal_shaah/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-ansal-pa-23344328b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansalshaah786@gmail.com) 
+  
+</div>
+
+<div align="center">
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MohammedAnsal&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MohammedAnsal&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAnsal&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  
+</div>
+
+
+<div align="center">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MohammedAnsal&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+  
+</div>
+
+<div align="center">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MohammedAnsal&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+  
+</div>
+
+
+<div align="center">
+
+
+  
+</div>
+
+[![](https://visitcount.itsvg.in/api?id=MohammedAnsal&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MohammedAnsal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
