@@ -26,6 +26,12 @@ Hi ! My name is Mohammed Ansal<br>Passionate Full-Stack Developer | MERN Stack S
   
 </div>
 
+<div align="center">
+
+![snake gif](https://github.com/MohammedAnsal/MohammedAnsal/blob/output/github-snake-dark.svg)
+  
+</div>
+
 
 <div align="center">
 
@@ -41,12 +47,6 @@ Hi ! My name is Mohammed Ansal<br>Passionate Full-Stack Developer | MERN Stack S
   
 </div>
 
-
-<div align="center">
-
-
-  
-</div>
 
 [![](https://visitcount.itsvg.in/api?id=MohammedAnsal&icon=0&color=0)](https://visitcount.itsvg.in)
 
